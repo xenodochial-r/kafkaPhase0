@@ -2,5 +2,5 @@
 
 # kafka python
 
-# kafka pythin libs
+## kafka python libs
 - https://github.com/tombasche/samsa
